@@ -1,0 +1,21 @@
+#odin {
+    color: bisque;
+    background-color: brown;
+    padding: 30px;
+    margin: 10px auto;
+    margin-bottom: 30px;
+    display: block;
+    text-align: center;
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+p {
+    color: goldenrod;
+    font-size: 18px;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px 40px;
+    background-color: burlywood;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
